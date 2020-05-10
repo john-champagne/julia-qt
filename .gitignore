@@ -1,0 +1,6 @@
+.gitignore
+*.ppm
+*.csv
+*.png
+*.swp
+julia
